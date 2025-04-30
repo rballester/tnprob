@@ -1,0 +1,13 @@
+matplotlib==3.7.1
+networkx==3.1
+numpy==2.1.0
+pandas==2.0.2
+pgmpy==0.1.24
+pyAgrum==1.13.2
+pytest==7.4.0
+quimb==1.8.1
+rich==13.7.1
+scipy==1.8.0
+setuptools==69.2.0
+tntorch.egg==info
+torch==2.3.1
